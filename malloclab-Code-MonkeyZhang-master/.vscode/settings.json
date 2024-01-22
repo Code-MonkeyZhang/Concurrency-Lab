@@ -1,0 +1,16 @@
+{
+    "files.associations": {
+        "*.ino": "cpp",
+        "*.tcc": "c",
+        "memory_resource": "c",
+        "array": "c",
+        "string_view": "c",
+        "initializer_list": "c",
+        "utility": "c",
+        "deque": "c",
+        "string": "c",
+        "unordered_map": "c",
+        "vector": "c",
+        "random": "c"
+    }
+}
